@@ -1,0 +1,112 @@
+# Archivos generados por el sistema operativo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Archivos de recursos de macOS
+.Trashes
+.Spotlight-V100
+.VolumeIcon.icns
+.TemporaryItems
+.fseventsd
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+# Linux
+*~
+.directory
+
+# Archivos de registro y temporales
+
+*.log
+log/
+tmp/
+*.tmp 
+*.bak
+*.swp
+*.swo
+
+# Archivos de compilación y artefactos
+
+build/
+dist/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.o
+*.a
+*.pyc
+*.class
+
+# Archivos específicos de .NET
+*.pdb
+packages/
+*.nupkg
+TestResults/
+publish/
+out/
+*.csproj.user
+*.vbproj.user
+
+# Dependencias y entornos
+
+node_modules/
+vendor/
+env/
+.venv/
+
+# Archivos de configuración de IDEs y editores
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains (IntelliJ, WebStorm, PyCharm, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Otros editores
+.atom/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de configuración sensibles o específicos del entorno
+
+.env
+.env.*
+config.json
+
+# Archivos de paquetes y compresión
+
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.dmg
+*.iso
+*.jar
