@@ -1,7 +1,7 @@
 # Hola, soy Samara 👋 👨‍💻
 
 <div align="center">
-<img width="300" alt="Sammy Logo" src="./foto.jpeg" />
+<img width="300" alt="Sammy Logo" src="./foto.jpg" />
 </div>
 
 ---
